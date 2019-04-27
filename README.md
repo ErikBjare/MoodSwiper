@@ -1,0 +1,2 @@
+# MoodSwiper
+Created with CodeSandbox
