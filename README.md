@@ -1,10 +1,10 @@
-# test-project
+# MoodSwiper
 
-> A Vue.js project
+Forked from: https://codesandbox.io/s/w0klzql985
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
