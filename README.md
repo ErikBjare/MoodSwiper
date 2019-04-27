@@ -1,5 +1,9 @@
 # MoodSwiper
 
+> Swipe on your emotions to record your mood, a UI prototype.
+
+Preview here: https://codesandbox.io/s/github/ErikBjare/MoodSwiper
+
 Forked from: https://codesandbox.io/s/w0klzql985
 
 ## Build Setup
