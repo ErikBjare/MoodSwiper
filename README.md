@@ -1,4 +1,4 @@
-# MoodSwiper
+# MoodSwiper (or "Feeler")
 
 > Swipe on your emotions to record your mood, a UI prototype.
 
